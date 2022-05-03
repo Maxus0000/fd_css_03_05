@@ -1,0 +1,45 @@
+/* font-family: 'Lato', sans-serif; */
+/* font-family: 'Water Brush', cursive; */
+
+body{
+  background-color: bisque;
+}
+
+.sub-heading,
+.main-heading{
+  color:firebrick;
+  font-weight: 400;
+  font-family: 'Water Brush',cursive;
+  font-style: italic;
+  letter-spacing: 0.1em;
+
+  text-align: center;
+  text-transform: capitalize;
+}
+.main-heading{
+  font-size: 48px;
+text-decoration: underline wavy white;
+
+}
+.page-link{
+  background-color: white;
+  color:blueviolet;
+  font-size: 20px;
+  font-weight: normal;
+  text-decoration: none;
+}
+
+
+.art-heading{
+  background-color:blueviolet;
+  font-family: 'Lato';sans-serif;
+  text-align:right;
+  text-transform: uppercase;   
+}
+.art-content{
+  color:coral;
+  font-size: 16px;
+  line-height: 1.3em;
+  text-align: justify;
+  text-indent: 1.5em;
+}
